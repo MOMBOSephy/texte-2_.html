@@ -1,19 +1,21 @@
- form{
+form{
 background: blue;
-background: skyblue;
-top: 70%
+background: blue;
+bottom:80%; 
+top:50%
 left:50%;
 position:center;
-border:1px solid black;
+border:1px solid black20px;
 padding: 5rem;
-margin-top: 70px;
+margin-top: 60px;
 width: 30%
 background-color:#779DEE;
 box-shadow: 5px 5px 20px 1px rgb(85,85,85);
 border-radius: 10px 10px 10px;
-color: whithe;
+color:white;
 height: 500PX;
 width: 30%;
+text-align: center;
 }
 button{
 	cursor: pointer;
