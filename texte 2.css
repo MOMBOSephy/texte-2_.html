@@ -1,0 +1,42 @@
+ form{
+background: blue;
+background: skyblue;
+top: 70%
+left:50%;
+position:center;
+border:1px solid black;
+padding: 5rem;
+margin-top: 70px;
+width: 30%
+background-color:#779DEE;
+box-shadow: 5px 5px 20px 1px rgb(85,85,85);
+border-radius: 10px 10px 10px;
+color: whithe;
+height: 500PX;
+width: 30%;
+}
+button{
+	cursor: pointer;
+}
+.logo{
+ 	width:200px;
+ }
+ .lycee{
+ 	width:500px;
+ }
+ .theme{
+ 	width: 700px;
+ }
+ body{font-family: 'open sans', sans-serif;
+	background-image: url("moi 1.png");
+	background-size: 90%;
+	background-repeat:no-repeat;
+	background-position: bottom;
+    background-position: center;
+    background-position: ;
+    background-position:25ch 20em;
+    background-position: bottom 90px center 40px;
+   text-align: left;
+   margin: 50px;
+}
+
